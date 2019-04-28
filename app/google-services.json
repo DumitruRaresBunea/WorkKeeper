@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689909091795",
+    "firebase_url": "https://workkeeper-2c34c.firebaseio.com",
+    "project_id": "workkeeper-2c34c",
+    "storage_bucket": "workkeeper-2c34c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689909091795:android:ed394c86c76791b7",
+        "android_client_info": {
+          "package_name": "com.example.workkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689909091795-3tntut4vkj8tjihlabbsupl7k111d7ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workkeeper",
+            "certificate_hash": "42c841e138f5f079446b5d4766593c0bd517d870"
+          }
+        },
+        {
+          "client_id": "689909091795-832vpps5ciemf12qntjnkovr9mtkpssr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCfgJVgXDw2fKMpkxfr721BTtr2k-Uh0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689909091795-832vpps5ciemf12qntjnkovr9mtkpssr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
